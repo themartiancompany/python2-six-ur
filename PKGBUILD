@@ -1,6 +1,8 @@
 # SPDX-License-Identifier: AGPL-3.0
 #
-# Maintainer: 0b100100 <0b100100 at protonmail dot ch>
+# Maintainer:  0b100100 <0b100100 at protonmail dot ch>
+# Contributor: Pellegrino Prevete <cGVsbGVncmlub3ByZXZldGVAZ21haWwuY29tCg== | base -d>
+# Contributor: Truocolo <truocolo@aol.com>
 # Contributor: Felix Yan <felixonmars@archlinux.org>
 # Contributor: Jelle van der Waa <jelle@vdwaa.nl>
 # Contributer: Allan McRae <allan@archlinux.org>
